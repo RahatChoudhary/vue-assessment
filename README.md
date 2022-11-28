@@ -2,7 +2,7 @@
 
 ## Demo URL 
 ```
-https://vue-assessment.surge.sh/
+http://vue-assessment.surge.sh/
 ```
 ### Project setup
 ```
